@@ -84,7 +84,7 @@ const ProjectsSection = () => {
     
     return (
         // <div className="py-12 px-6">
-            <section >
+            <section id="projects">
             {/* Section Title */}
             <h2 className="text-center text-4xl font-bold text-white mb-8">
                 My Projects
