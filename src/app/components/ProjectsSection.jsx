@@ -22,7 +22,7 @@ const projectsData = [
         image: "/images/projects/2.png",
         tag: ["All", "Web"],
         gitUrl: "/",
-        previewUrl: "/"
+        previewUrl: "https://foodmart-app-frontend.onrender.com/"
     },
     {
         id: 3,
