@@ -19,7 +19,7 @@ const projectsData = [
         id: 2,
         title: "MERN Stack Online Food Delivery Website",
         description: "Integrated Stripe as a payment gateway, ensuring secure transactions for users during the checkout process",
-        image: "/images/projects/1.png",
+        image: "/images/projects/2.png",
         tag: ["All", "Web"],
         gitUrl: "/",
         previewUrl: "/"
